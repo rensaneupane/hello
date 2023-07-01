@@ -1,6 +1,6 @@
 
 
-This is a simple quizeria brought to you by using simple DSA.
+I have used very simple commands to make changes in this quezeria using DSA concepts.
  #include<string.h>
     #include<stdlib.h>
     #include<stdio.h>
