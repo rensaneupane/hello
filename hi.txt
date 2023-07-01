@@ -1,3 +1,6 @@
+
+
+This is a simple quizeria brought to you by using simple DSA.
  #include<string.h>
     #include<stdlib.h>
     #include<stdio.h>
